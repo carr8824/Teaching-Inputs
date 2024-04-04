@@ -30,21 +30,6 @@ Cristhian Rodriguez Revilla
   - [Task: Portfolio Investment
     Analysis](#task-portfolio-investment-analysis)
 
-<style>
-.img-watermark {
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-    opacity: 0.3; /* Adjust the opacity as needed */
-    font-size: 20px;
-    transform: rotate(-45deg);
-    z-index: 9999;
-    max-width: 100px; /* Adjust size as needed */
-    max-height: auto;
-}
-</style>
-
-<img src="logo.png" alt="Watermark" class="img-watermark">
 
 # Conditionals
 
