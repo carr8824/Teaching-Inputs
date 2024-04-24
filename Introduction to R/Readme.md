@@ -33,7 +33,7 @@ The course is divided into four sessions, each designed to build on the previous
 
 - Session Four: Presenting Data and Reporting Information
 
-   - Teaches data visualization with **ggplot2** and **kable** for creating compelling reports and presentations.
+   - Teaches data visualization with **ggplot2** and  table summarie with **kable** and **KableExtra**for creating compelling reports and presentations.
 
 Slides and exercises accompany each session to reinforce the learned concepts. Tasks are short and focused and should be attempted immediately after covering the material, ideally not exceeding 10 minutes each.
 
