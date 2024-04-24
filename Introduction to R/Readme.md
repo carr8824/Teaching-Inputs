@@ -33,17 +33,18 @@ The course is divided into four sessions, each designed to build on the previous
 
 - Session Four: Presenting Data and Reporting Information
 
-Teaches data visualization with **ggplot2** and **kable** for creating compelling reports and presentations.
+   - Teaches data visualization with **ggplot2** and **kable** for creating compelling reports and presentations.
 
 Slides and exercises accompany each session to reinforce the learned concepts. Tasks are short and focused and should be attempted immediately after covering the material, ideally not exceeding 10 minutes each.
 
 ## Repository Contents
 This GitHub repository contains four files corresponding to the course sessions:
 
-- `Session_One.Rmd`
-- `Session_Two.Rmd`
-- `Session_Three.Rmd`
-- `Session_Four.Rmd`
+- `Session_OneG.Rmd` <a href="http//:file" target="_blank"><strong>Solution HTML Click Here</strong> </a>.
+- `Session_TwoG.Rmd`
+- `Session_ThreeG.Rmd`
+- `Session_FourG.Rmd` [Session Four HTML Click Here](https://www.dropbox.com/scl/fi/cl4ichvzdvssr9zjx9y0y/Session-Four.html?rlkey=n716bl3nv60u9gurglzj6e83x&dl=0)
+
 
 ### Getting Started
 
