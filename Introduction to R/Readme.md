@@ -40,10 +40,10 @@ Slides and exercises accompany each session to reinforce the learned concepts. T
 ## Repository Contents
 This GitHub repository contains four files corresponding to the course sessions:
 
-- `Session_OneG.Rmd` <a href="http//:file" target="_blank"><strong>Solution HTML Click Here</strong> </a>.
-- `Session_TwoG.Rmd`
-- `Session_ThreeG.Rmd`
-- `Session_FourG.Rmd` [Session Four HTML Click Here](https://www.dropbox.com/scl/fi/cl4ichvzdvssr9zjx9y0y/Session-Four.html?rlkey=n716bl3nv60u9gurglzj6e83x&dl=0)
+- `Session_OneG.Rmd` [Solution One HTML Click Here](https://www.dropbox.com/scl/fi/btjvydozmk9l8h98e8xo9/Session-One_Solutions.html?rlkey=02076vtplgtlqobjb7xyv9np4&dl=0)
+- `Session_TwoG.Rmd` [Solution Two HTML Click Here](https://www.dropbox.com/scl/fi/w4yzszjg8dmvo3d5s7nvc/Session-Two_Solutions.html?rlkey=tz3hfptmi49ihr42zpwuzdmzt&dl=0)
+- `Session_ThreeG.Rmd` [Solution Three HTML Click Here](https://www.dropbox.com/scl/fi/bhjl85vd8uue73er87ah7/Session-Three_Solutions.html?rlkey=jam2f33jotn4tkv5obhrbn3ph&dl=0)
+- `Session_FourG.Rmd` [Solution Four HTML Click Here](https://www.dropbox.com/scl/fi/cl4ichvzdvssr9zjx9y0y/Session-Four.html?rlkey=n716bl3nv60u9gurglzj6e83x&dl=0)
 
 
 ### Getting Started
